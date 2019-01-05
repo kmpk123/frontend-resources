@@ -26,7 +26,7 @@ This repository is to collate all the resources that are required to become a go
   * Webpack,Gulp,Grunt
   * Babel
   * Polyfills
-* Optimising through Budling
+* Optimising through Bundling
   * Tree Shaking
   * Code Splitting
 * Static Typing Scripts

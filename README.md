@@ -18,9 +18,9 @@ This repository is to collate all the resources that are required to become a go
   * Backbone
   * RequireJs
 * Bundling Libraries
-  * Webpack
-  * Gulp
-  * Grunt
+  * Webpack,Gulp,Grunt
+  * Babel
+  * Polyfills
 * Optimising through Budling
   * Tree Shaking
   * Code Splitting
@@ -33,9 +33,12 @@ This repository is to collate all the resources that are required to become a go
 * Web Security
   * XSS
   * X-iframe
+* Web application trends
+  * Earlier
+  * SPAs
+  * PWAs
 * How To Build Series
   * Google Maps
   * Gmail
   * Google Sheets
    
-

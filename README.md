@@ -17,6 +17,11 @@ This repository is to collate all the resources that are required to become a go
   * Ember
   * Backbone
   * RequireJs
+* Testing Frameworks
+  * Jasmine
+  * Mocha
+  * Protractor
+  * End2End - Puppeter, selenium
 * Bundling Libraries
   * Webpack,Gulp,Grunt
   * Babel
@@ -37,6 +42,7 @@ This repository is to collate all the resources that are required to become a go
   * Earlier
   * SPAs
   * PWAs
+  * Server side rendering
 * How To Build Series
   * Google Maps
   * Gmail

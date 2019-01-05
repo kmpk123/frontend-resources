@@ -7,6 +7,7 @@ This repository is to collate all the resources that are required to become a go
 * Javascript Basics
 * Javascript Advanced Concepts
 * ES6 & ES7 features
+* Browsers and Javascirpt Engines
 * Frameworks History
 * Current Trending Frameworks
   * AngularJs

@@ -22,6 +22,11 @@ This repository is to collate all the resources that are required to become a go
   * Mocha
   * Protractor
   * End2End - Puppeter, selenium
+* Static Typing Scripts
+  * TypeScript
+  * Flow
+* Linting
+  * ESLint
 * Bundling Libraries
   * Webpack,Gulp,Grunt
   * Babel
@@ -29,9 +34,6 @@ This repository is to collate all the resources that are required to become a go
 * Optimising through Bundling
   * Tree Shaking
   * Code Splitting
-* Static Typing Scripts
-  * TypeScript
-  * Flow
 * Web Performance
   * Profiling
   * Optimisations
@@ -48,3 +50,4 @@ This repository is to collate all the resources that are required to become a go
   * Gmail
   * Google Sheets
    
+=======================================================

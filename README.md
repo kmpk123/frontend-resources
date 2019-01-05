@@ -17,6 +17,11 @@ This repository is to collate all the resources that are required to become a go
   * Ember
   * Backbone
   * RequireJs
+  * Redux
+    * Axios
+    * Thunk
+    * Saga - Generators
+    * Observable
 * Testing Frameworks
   * Jasmine
   * Mocha

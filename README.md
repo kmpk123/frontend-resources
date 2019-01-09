@@ -40,7 +40,7 @@ This repository is to collate all the resources that are required to become a go
   * Tree Shaking
   * Code Splitting
 * Web Performance
-  * [Profiling] (#profiling)
+  * [Profiling](#profiling)
   * Optimisations
 * Web Security
   * XSS

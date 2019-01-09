@@ -40,7 +40,7 @@ This repository is to collate all the resources that are required to become a go
   * Tree Shaking
   * Code Splitting
 * Web Performance
-  * Profiling
+  * [Profiling] (#profiling)
   * Optimisations
 * Web Security
   * XSS
@@ -50,7 +50,7 @@ This repository is to collate all the resources that are required to become a go
   * SPAs
   * PWAs
   * Server side rendering
-* How To Build Series
+* Series - How To design
   * Google Maps
   * Gmail
   * Google Sheets
@@ -58,3 +58,9 @@ This repository is to collate all the resources that are required to become a go
 =======================================================
 
 <a name = "CSS3"></a>CSS3
+
+<a name="profiling"></a>Profiling
+Basic: 
+ Memory Profiling:  https://www.youtube.com/watch?v=L3ugr9BJqIs&t=269s
+Medium: 
+Advanced

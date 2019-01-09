@@ -57,11 +57,12 @@ This repository is to collate all the resources that are required to become a go
    
 =======================================================
 
-<a name = "CSS3"></a>##CSS3
+<a name = "CSS3"></a>
+## CSS3
 
 <a name="profiling"></a>
 ### Profiling
-####Basic: 
+#### Basic: 
  Memory Profiling:  https://www.youtube.com/watch?v=L3ugr9BJqIs&t=269s
-####Medium: 
-####Advanced
+#### Medium: 
+#### Advanced

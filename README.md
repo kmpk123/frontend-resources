@@ -42,7 +42,7 @@ This repository is to collate all the resources that are required to become a go
 * Web Performance
   * [Profiling](#profiling)
   * Optimisations
-* Web Security
+* [Web Security](#web_security)
   * XSS
   * X-iframe
 * Web application trends
@@ -60,9 +60,22 @@ This repository is to collate all the resources that are required to become a go
 <a name = "CSS3"></a>
 ## CSS3
 
+## Web Performance
 <a name="profiling"></a>
 ### Profiling
 #### Basic: 
  Memory Profiling:  https://www.youtube.com/watch?v=L3ugr9BJqIs&t=269s
 #### Medium: 
 #### Advanced
+
+<a name="web_security"></a>
+## Web Security
+<a name="web_security"></a>
+
+#### Basic: 
+ Topics and basic intro of topics : https://web-design-weekly.com/2014/07/09/front-end-security-thing-concerned/
+#### Medium: 
+ CORS: https://code.google.com/archive/p/html5security/wikis/CrossOriginRequestSecurity.wiki
+ 
+#### Advanced
+

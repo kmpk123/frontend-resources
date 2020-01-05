@@ -9,6 +9,7 @@ This repository is to collate all the resources that are required to become a go
 * ES6 & ES7 features
 * Browsers and Javascirpt Engines
 * Frameworks History
+* [Design patterns] #design-patterns
 * Current Trending Frameworks
   * AngularJs
   * Angluar
@@ -59,6 +60,10 @@ This repository is to collate all the resources that are required to become a go
 
 <a name = "CSS3"></a>
 ## CSS3
+
+## Design patterns
+<a name='design-patterns'></a>
+Different design patterns and their differences : https://stackoverflow.com/a/45850979
 
 ## Web Performance
 <a name="profiling"></a>

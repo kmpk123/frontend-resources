@@ -9,7 +9,7 @@ This repository is to collate all the resources that are required to become a go
 * ES6 & ES7 features
 * Browsers and Javascirpt Engines
 * Frameworks History
-* [Design patterns] #design-patterns
+* [Design patterns](#design-patterns)
 * Current Trending Frameworks
   * AngularJs
   * Angluar
